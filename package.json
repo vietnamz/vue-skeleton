@@ -15,10 +15,13 @@
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
+    "@mdi/font": "^4.1.95",
+    "@mdi/js": "^4.1.95",
     "@nuxtjs/vuetify": "^1.0.0",
     "@vue/test-utils": "^1.0.0-beta.27",
     "babel-jest": "^24.1.0",
     "jest": "^24.1.0",
+    "material-design-icons-iconfont": "^5.0.1",
     "vue-jest": "^4.0.0-0"
   }
 }

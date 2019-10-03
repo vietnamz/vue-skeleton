@@ -48,6 +48,10 @@ export default {
   */
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
+    defaultAssets: {
+      font: true,
+      icons: 'mdi'
+    },
     theme: {
       dark: true,
       themes: {
